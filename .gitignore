@@ -1,0 +1,14 @@
+# Generated Python artifacts
+__pycache__/
+*.py[cod]
+
+# ECLIPSE staging, rollback, and local execution artifacts
+.eclipse/
+*.sqlite
+*.sqlite3
+*.db
+*.db-*
+
+# Local test and coverage artifacts
+.coverage
+htmlcov/
